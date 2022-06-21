@@ -1,0 +1,6 @@
+Invoking command in '/home/kwak/yolobot/build/yolobot_description': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/kwak/yolobot/src/yolobot_description -DCMAKE_INSTALL_PREFIX=/home/kwak/yolobot/install/yolobot_description
+Invoked command in '/home/kwak/yolobot/build/yolobot_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/kwak/yolobot/src/yolobot_description -DCMAKE_INSTALL_PREFIX=/home/kwak/yolobot/install/yolobot_description
+Invoking command in '/home/kwak/yolobot/build/yolobot_description': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/kwak/yolobot/build/yolobot_description -- -j12 -l12
+Invoked command in '/home/kwak/yolobot/build/yolobot_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/kwak/yolobot/build/yolobot_description -- -j12 -l12
+Invoking command in '/home/kwak/yolobot/build/yolobot_description': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/kwak/yolobot/build/yolobot_description
+Invoked command in '/home/kwak/yolobot/build/yolobot_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/kwak/yolobot/build/yolobot_description

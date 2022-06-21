@@ -1,0 +1,29 @@
+-- Found ament_cmake: 0.9.9 (/opt/ros/foxy/share/ament_cmake/cmake)
+-- Using PYTHON_EXECUTABLE: /usr/bin/python3
+-- Override CMake install command with custom implementation using symlinks instead of copying resources
+-- Found ament_lint_auto: 0.9.6 (/opt/ros/foxy/share/ament_lint_auto/cmake)
+-- Added test 'copyright' to check source files copyright and LICENSE
+-- Added test 'flake8' to check Python code syntax and style conventions
+-- Added test 'lint_cmake' to check CMake code style
+-- Added test 'pep257' to check Python code against some of the style conventions in PEP 257
+-- Added test 'xmllint' to check XML markup files
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/kwak/yolobot/build/yolobot_recognition
+-- Install configuration: ""
+-- Execute custom install script
+-- Symlinking: /home/kwak/yolobot/install/yolobot_recognition/share/ament_index/resource_index/package_run_dependencies/yolobot_recognition
+-- Symlinking: /home/kwak/yolobot/install/yolobot_recognition/share/ament_index/resource_index/parent_prefix_path/yolobot_recognition
+-- Symlinking: /home/kwak/yolobot/install/yolobot_recognition/share/yolobot_recognition/environment/ament_prefix_path.sh
+-- Symlinking: /home/kwak/yolobot/install/yolobot_recognition/share/yolobot_recognition/environment/ament_prefix_path.dsv
+-- Symlinking: /home/kwak/yolobot/install/yolobot_recognition/share/yolobot_recognition/environment/path.sh
+-- Symlinking: /home/kwak/yolobot/install/yolobot_recognition/share/yolobot_recognition/environment/path.dsv
+-- Symlinking: /home/kwak/yolobot/install/yolobot_recognition/share/yolobot_recognition/local_setup.bash
+-- Symlinking: /home/kwak/yolobot/install/yolobot_recognition/share/yolobot_recognition/local_setup.sh
+-- Symlinking: /home/kwak/yolobot/install/yolobot_recognition/share/yolobot_recognition/local_setup.zsh
+-- Symlinking: /home/kwak/yolobot/install/yolobot_recognition/share/yolobot_recognition/local_setup.dsv
+-- Symlinking: /home/kwak/yolobot/install/yolobot_recognition/share/yolobot_recognition/package.dsv
+-- Symlinking: /home/kwak/yolobot/install/yolobot_recognition/share/ament_index/resource_index/packages/yolobot_recognition
+-- Symlinking: /home/kwak/yolobot/install/yolobot_recognition/share/yolobot_recognition/cmake/yolobot_recognitionConfig.cmake
+-- Symlinking: /home/kwak/yolobot/install/yolobot_recognition/share/yolobot_recognition/cmake/yolobot_recognitionConfig-version.cmake
+-- Symlinking: /home/kwak/yolobot/install/yolobot_recognition/share/yolobot_recognition/package.xml

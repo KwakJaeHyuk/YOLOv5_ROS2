@@ -1,0 +1,1 @@
+/home/kwak/yolobot/build/yolobot_recognition/ament_cmake_environment_hooks/local_setup.bash

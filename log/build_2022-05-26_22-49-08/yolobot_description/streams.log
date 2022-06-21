@@ -1,0 +1,55 @@
+[0.020s] Invoking command in '/home/kwak/yolobot/build/yolobot_description': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/kwak/yolobot/src/yolobot_description -DCMAKE_INSTALL_PREFIX=/home/kwak/yolobot/install/yolobot_description
+[0.120s] -- The C compiler identification is GNU 9.4.0
+[0.198s] -- The CXX compiler identification is GNU 9.4.0
+[0.204s] -- Check for working C compiler: /usr/bin/cc
+[0.257s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.258s] -- Detecting C compiler ABI info
+[0.311s] -- Detecting C compiler ABI info - done
+[0.321s] -- Detecting C compile features
+[0.321s] -- Detecting C compile features - done
+[0.323s] -- Check for working CXX compiler: /usr/bin/c++
+[0.387s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[0.388s] -- Detecting CXX compiler ABI info
+[0.453s] -- Detecting CXX compiler ABI info - done
+[0.462s] -- Detecting CXX compile features
+[0.462s] -- Detecting CXX compile features - done
+[0.465s] -- Found ament_cmake: 0.9.9 (/opt/ros/foxy/share/ament_cmake/cmake)
+[0.486s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[0.486s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.653s] -- Found urdf: 2.4.0 (/opt/ros/foxy/share/urdf/cmake)
+[0.679s] -- Found ament_lint_auto: 0.9.6 (/opt/ros/foxy/share/ament_lint_auto/cmake)
+[0.750s] -- Added test 'copyright' to check source files copyright and LICENSE
+[0.751s] -- Added test 'flake8' to check Python code syntax and style conventions
+[0.751s] -- Added test 'lint_cmake' to check CMake code style
+[0.752s] -- Added test 'pep257' to check Python code against some of the style conventions in PEP 257
+[0.752s] -- Added test 'xmllint' to check XML markup files
+[0.754s] -- Configuring done
+[0.755s] -- Generating done
+[0.756s] -- Build files have been written to: /home/kwak/yolobot/build/yolobot_description
+[0.760s] Invoked command in '/home/kwak/yolobot/build/yolobot_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/kwak/yolobot/src/yolobot_description -DCMAKE_INSTALL_PREFIX=/home/kwak/yolobot/install/yolobot_description
+[0.763s] Invoking command in '/home/kwak/yolobot/build/yolobot_description': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/kwak/yolobot/build/yolobot_description -- -j12 -l12
+[0.795s] Invoked command in '/home/kwak/yolobot/build/yolobot_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/kwak/yolobot/build/yolobot_description -- -j12 -l12
+[0.818s] Invoking command in '/home/kwak/yolobot/build/yolobot_description': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/kwak/yolobot/build/yolobot_description
+[0.825s] -- Install configuration: ""
+[0.825s] -- Installing: /home/kwak/yolobot/install/yolobot_description/share/yolobot_description//launch
+[0.825s] -- Installing: /home/kwak/yolobot/install/yolobot_description/share/yolobot_description//launch/spawn_yolobot.py
+[0.826s] -- Installing: /home/kwak/yolobot/install/yolobot_description/share/yolobot_description//launch/spawn_yolobot_launch.launch.py
+[0.826s] -- Installing: /home/kwak/yolobot/install/yolobot_description/share/yolobot_description//robot
+[0.826s] -- Installing: /home/kwak/yolobot/install/yolobot_description/share/yolobot_description//robot/yolobot.urdf
+[0.826s] -- Installing: /home/kwak/yolobot/install/yolobot_description/lib/yolobot_description/spawn_yolobot.py
+[0.826s] -- Installing: /home/kwak/yolobot/install/yolobot_description/share/ament_index/resource_index/package_run_dependencies/yolobot_description
+[0.827s] -- Installing: /home/kwak/yolobot/install/yolobot_description/share/ament_index/resource_index/parent_prefix_path/yolobot_description
+[0.827s] -- Installing: /home/kwak/yolobot/install/yolobot_description/share/yolobot_description/environment/ament_prefix_path.sh
+[0.827s] -- Installing: /home/kwak/yolobot/install/yolobot_description/share/yolobot_description/environment/ament_prefix_path.dsv
+[0.827s] -- Installing: /home/kwak/yolobot/install/yolobot_description/share/yolobot_description/environment/path.sh
+[0.827s] -- Installing: /home/kwak/yolobot/install/yolobot_description/share/yolobot_description/environment/path.dsv
+[0.827s] -- Installing: /home/kwak/yolobot/install/yolobot_description/share/yolobot_description/local_setup.bash
+[0.828s] -- Installing: /home/kwak/yolobot/install/yolobot_description/share/yolobot_description/local_setup.sh
+[0.828s] -- Installing: /home/kwak/yolobot/install/yolobot_description/share/yolobot_description/local_setup.zsh
+[0.828s] -- Installing: /home/kwak/yolobot/install/yolobot_description/share/yolobot_description/local_setup.dsv
+[0.828s] -- Installing: /home/kwak/yolobot/install/yolobot_description/share/yolobot_description/package.dsv
+[0.829s] -- Installing: /home/kwak/yolobot/install/yolobot_description/share/ament_index/resource_index/packages/yolobot_description
+[0.829s] -- Installing: /home/kwak/yolobot/install/yolobot_description/share/yolobot_description/cmake/yolobot_descriptionConfig.cmake
+[0.829s] -- Installing: /home/kwak/yolobot/install/yolobot_description/share/yolobot_description/cmake/yolobot_descriptionConfig-version.cmake
+[0.831s] -- Installing: /home/kwak/yolobot/install/yolobot_description/share/yolobot_description/package.xml
+[0.840s] Invoked command in '/home/kwak/yolobot/build/yolobot_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/kwak/yolobot/build/yolobot_description

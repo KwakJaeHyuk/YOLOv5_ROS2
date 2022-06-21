@@ -1,0 +1,25 @@
+[0.021s] Invoking command in '/home/kwak/yolobot/build/yolobot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --build /home/kwak/yolobot/build/yolobot_description -- -j12 -l12
+[0.052s] Invoked command in '/home/kwak/yolobot/build/yolobot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --build /home/kwak/yolobot/build/yolobot_description -- -j12 -l12
+[0.078s] Invoking command in '/home/kwak/yolobot/build/yolobot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --install /home/kwak/yolobot/build/yolobot_description
+[0.083s] -- Install configuration: ""
+[0.084s] -- Execute custom install script
+[0.084s] -- Up-to-date symlink: /home/kwak/yolobot/install/yolobot_description/share/yolobot_description//launch/spawn_yolobot.py
+[0.084s] -- Up-to-date symlink: /home/kwak/yolobot/install/yolobot_description/share/yolobot_description//launch/spawn_yolobot_launch.launch.py
+[0.085s] -- Up-to-date symlink: /home/kwak/yolobot/install/yolobot_description/share/yolobot_description//robot/yolobot.urdf
+[0.085s] -- Up-to-date symlink: /home/kwak/yolobot/install/yolobot_description/lib/yolobot_description/spawn_yolobot.py
+[0.085s] -- Up-to-date symlink: /home/kwak/yolobot/install/yolobot_description/share/ament_index/resource_index/package_run_dependencies/yolobot_description
+[0.085s] -- Up-to-date symlink: /home/kwak/yolobot/install/yolobot_description/share/ament_index/resource_index/parent_prefix_path/yolobot_description
+[0.085s] -- Up-to-date symlink: /home/kwak/yolobot/install/yolobot_description/share/yolobot_description/environment/ament_prefix_path.sh
+[0.086s] -- Up-to-date symlink: /home/kwak/yolobot/install/yolobot_description/share/yolobot_description/environment/ament_prefix_path.dsv
+[0.086s] -- Up-to-date symlink: /home/kwak/yolobot/install/yolobot_description/share/yolobot_description/environment/path.sh
+[0.086s] -- Up-to-date symlink: /home/kwak/yolobot/install/yolobot_description/share/yolobot_description/environment/path.dsv
+[0.086s] -- Up-to-date symlink: /home/kwak/yolobot/install/yolobot_description/share/yolobot_description/local_setup.bash
+[0.087s] -- Up-to-date symlink: /home/kwak/yolobot/install/yolobot_description/share/yolobot_description/local_setup.sh
+[0.087s] -- Up-to-date symlink: /home/kwak/yolobot/install/yolobot_description/share/yolobot_description/local_setup.zsh
+[0.087s] -- Up-to-date symlink: /home/kwak/yolobot/install/yolobot_description/share/yolobot_description/local_setup.dsv
+[0.087s] -- Symlinking: /home/kwak/yolobot/install/yolobot_description/share/yolobot_description/package.dsv
+[0.095s] -- Up-to-date symlink: /home/kwak/yolobot/install/yolobot_description/share/ament_index/resource_index/packages/yolobot_description
+[0.095s] -- Up-to-date symlink: /home/kwak/yolobot/install/yolobot_description/share/yolobot_description/cmake/yolobot_descriptionConfig.cmake
+[0.095s] -- Up-to-date symlink: /home/kwak/yolobot/install/yolobot_description/share/yolobot_description/cmake/yolobot_descriptionConfig-version.cmake
+[0.095s] -- Up-to-date symlink: /home/kwak/yolobot/install/yolobot_description/share/yolobot_description/package.xml
+[0.116s] Invoked command in '/home/kwak/yolobot/build/yolobot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --install /home/kwak/yolobot/build/yolobot_description

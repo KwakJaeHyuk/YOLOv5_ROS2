@@ -1,0 +1,1 @@
+/home/kwak/yolobot/build/yolobot_control/ament_cmake_core/yolobot_controlConfig.cmake
